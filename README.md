@@ -11,7 +11,7 @@
 MongoDB | Express.js | React.js | Node.js
 
 ##  Screenshots
-(Add your screenshots here)
+
 
 ##  Setup
 1. Clone repo
